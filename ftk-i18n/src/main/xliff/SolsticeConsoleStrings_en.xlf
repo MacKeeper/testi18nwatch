@@ -17,6 +17,11 @@
                 <target></target>
                 <note from="source-code"/>
             </trans-unit>
+            <trans-unit id="Root.Commons.Test4" approved="no">
+                <source>Test4</source>
+                <target></target>
+                <note from="source-code"/>
+            </trans-unit>
         </body>
     </file>
 </xliff>
