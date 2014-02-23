@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file original="Root.Commons.Test" source-language="en" datatype="plaintext" target-language="en">
+        <body>
+            <trans-unit id="Root.Commons.Test1" approved="no">
+                <source>Test1</source>
+                <target>Test1</target>
+                <note from="source-code"/>
+            </trans-unit>
+            <trans-unit id="Root.Commons.Test2" approved="no">
+                <source>Test2</source>
+                <target>Test2</target>
+                <note from="source-code"/>
+            </trans-unit>
+            <trans-unit id="Root.Commons.Test3" approved="no">
+                <source>Test3</source>
+                <target></target>
+                <note from="source-code"/>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+
